@@ -4,7 +4,7 @@
 Created on Fri Feb  9 14:18:08 2024
 
 This script extracts/modifies the elevation (HGT_M) variable
-from a WRF Preprocessing System generated netCDF file.
+from a WRF Preprocessing System generated netCDF file. 
 
 @author: jrevier
 """
