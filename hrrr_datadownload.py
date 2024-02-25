@@ -3,7 +3,7 @@
 Spyder Editor
 
 This is a script used to download archived HRRR Model (prs) GRIB2 files
-using the Herbie Python Library.
+using the Herbie Python Library. Can be modified to any model output.
 """
 
 
